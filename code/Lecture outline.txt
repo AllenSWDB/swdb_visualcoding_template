@@ -1,0 +1,16 @@
+# Day 2 Lecture (Joel Zylberberg & Josh Siegle)
+
+## Intro to large-scale electrophysiology
+- Basic signal chain for in vivo ephys
+- Ephys vs. ophys -- why use one versus the other?
+- Advances in electrode technology
+- Neuropixels / CMOS manufacturing
+- Recording spiking activity from neural populations
+
+## Allen Brain Observatory -- Neuropixels
+- Dataset overview
+- Stimulus types
+- Example responses: flashes and gratings
+- Functional metrics and data packaging
+- Spike sorting quality metrics
+- Other open Neuropixels datasets: Visual Behavior, Stringer et al., IBL Brain-Wide Map
