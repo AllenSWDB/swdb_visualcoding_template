@@ -1,3 +1,3 @@
-# aind-capsule-template
+# swdb_population_coding
 
-Basic structure of a capsule to be customized as needed.
+Code Ocean capsule for Day 2 of the 2023 Summer Workshop on the Dynamic Brain.
