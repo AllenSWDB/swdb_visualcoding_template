@@ -7,4 +7,8 @@ pip install ipympl
 
 pip install scikit-learn
 
-pip install hdmf==3.8.0 --ignore-installed ruamel.yaml
+# pip install hdmf==3.8.0 --ignore-installed ruamel.yaml
+pip install hdmf==3.9.0 --ignore-installed ruamel.yaml
+
+pip install jinja2==3.0.1
+pip install nbconvert==6.4.4
