@@ -1,7 +1,6 @@
 # SWDB_2023
-![SWDB_2023](/code/resources/cropped-SummerWorkshop_Header.png)
 
-This is the repository for the Population Coding tutorial for the 2023 Summer Workshop on the Dynamic Brain.
+This is the template repository for the Visual Coding datasets the 2023 Summer Workshop on the Dynamic Brain.
 
 # Support Policy
 

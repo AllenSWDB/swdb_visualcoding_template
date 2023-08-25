@@ -1,6 +1,6 @@
 metadata_version: 1
-name: SWDB Population Coding
-description: Tutorial on population coding using the Allen Brain Observatory Visual
-  Coding Neuropixels dataset
+name: SWDB Visual Coding Template
+description: Template for using the Allen Brain Observatory Visual
+  Coding 2-photon and Neuropixels dataset
 authors:
 - name: SWDB
